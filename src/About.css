@@ -1,0 +1,25 @@
+.about-content {
+    padding-top: 10vh;
+    text-align: center;
+    background-color: var(--body_background);
+    margin-left: -2vw;
+}
+
+.about-head {
+    color: gold;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 1em auto 0;
+    font-size: 5vw;
+}
+
+.about-body {
+    width: 70%;
+    text-align: justify;
+    font-size: 1.2em;
+    margin: 1em auto 0;
+    margin-left: 15vw;
+    padding-bottom: 15vh;
+    line-height: 3vw;
+    color: var(--body_color);
+}

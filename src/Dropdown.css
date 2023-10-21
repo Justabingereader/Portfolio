@@ -1,0 +1,77 @@
+.navigate {
+    background-color: var(--body_background);
+    position:relative;
+    top: 0;
+    left: 0;
+    margin-top: 3.3vw;
+    margin-left: -80vw;
+    margin-bottom: 5vw;
+    width: 100vw;
+    
+}
+.toggle {
+    width: 10vw;
+    height: 6vh;
+    font-size: 2.5vw;
+    font-weight: 600;
+    text-transform: capitalize;
+    background-color: burlywood;
+    color: var(--body_color);
+}
+
+
+.hide {
+    display: none;
+}
+.toggle:hover {
+    cursor: pointer;
+    width: 11vw;
+    height: 6vh;
+    background-color: burlywood;
+}
+
+.about a{
+    display: block;
+    font-size: 4vw;
+    color: var(--body_color);
+    text-decoration: none;
+    margin-left: 44vw;
+    padding-top: 15vh;
+}
+
+.about a:hover {
+    cursor: pointer;
+    color: gold;
+    font-weight: bold;
+}
+
+.contact a {
+    display: block;
+    font-size: 4vw;
+    color: var(--body_color);
+    text-decoration: none;
+    margin-left: 44vw;
+    padding-top: 15vh;
+}
+
+.contact a:hover {
+    cursor: pointer;
+    color: gold;
+    font-weight: bold;
+}
+
+.projects a {
+    display: block;
+    font-size: 4vw;
+    color: var(--body_color);
+    text-decoration: none;
+    padding-bottom: 100vh;
+    margin-left: 44vw;
+    padding-top: 15vh;
+}
+
+.projects a:hover {
+    cursor: pointer;
+    color: gold;
+    font-weight: bold;
+}

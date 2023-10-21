@@ -1,0 +1,22 @@
+.dark {
+    background-color: #333;
+    color: #f5f5f5;
+  }
+  
+  .light {
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  .about-head.dark {
+    /* Component A dark theme styles */
+    background-color: #333;
+    color: #f5f5f5;
+  }
+  
+  .about-head.light {
+    /* Component A light theme styles */
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  

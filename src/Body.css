@@ -1,0 +1,48 @@
+.content-head {
+    display: flex;
+    flex-direction: row;
+    padding-top: 25vh;
+    background-color: var(--body_background);
+    margin-left: -0.6vw;
+    padding-bottom: 15vh;
+    max-width: 100vw;
+}
+
+.content-logo {
+    margin-right: 5vw;
+    margin-left: 6vw;
+    font-size: 20vw;
+}
+
+.header {
+    width: 50vw;
+}
+
+.head {
+    color: var(--body_color);
+    letter-spacing: 0.5vw;
+}
+
+.head2 {
+    font-size: 3em;
+    color: var(--body_color);
+    font-style: italic;
+}
+
+.body {
+    color: var(--body_color);
+    line-height: 5vh;
+}
+
+.discover {
+    margin-top: 9.5vh;
+    margin-left: 10.5vw;
+    color: yellow;
+    font-weight: bolder;
+}
+
+.footer {
+    font-style: italic;
+    color: var(--body_color);
+    margin-left: 9vw;
+}
