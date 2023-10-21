@@ -10,7 +10,7 @@
 
 .content-logo {
     margin-right: 5vw;
-    margin-left: 6vw;
+    margin-left: 10vw;
     font-size: 20vw;
 }
 
@@ -39,6 +39,8 @@
     margin-left: 10.5vw;
     color: yellow;
     font-weight: bolder;
+    margin-bottom: 10vh;
+    font-size: 3vw;
 }
 
 .footer {

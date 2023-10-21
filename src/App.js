@@ -15,7 +15,7 @@ function App() {
 
  
     return (
-      <BrowserRouter>
+      <BrowserRouter> 
         <div className="route-header">
           <nav className="nav-head" style={{position: "fixed"}}>
             <ul className="link-header" >
