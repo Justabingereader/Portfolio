@@ -24,8 +24,8 @@ function Projects(){
             <p className="project-body">This calculator app returns the sum of the different
             operations on two or more numbers inputted by a user.
             </p>
-            <a href="https://justacalculatorapp.netlify.app/" className="live">Live Site</a>
-            <a href="https://github.com/Justabingereader/The-Calculator-App" className="repo">Code Repo</a>
+            <a href="https://justacalculatorapp.netlify.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
+            <a href="https://github.com/Justabingereader/The-Calculator-App" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="tipcalculator">
                 <h5 >Tip Calculator </h5>
@@ -33,8 +33,8 @@ function Projects(){
                 <p className="project-body">This tip calculator App gets the number of persons,
                 tip percentage and total bill and returns the amount to tip.
                 </p>
-                <a href="https://thetipcalculatorapp.netlify.app/" className="live">Live Site</a>
-                <a href="https://github.com/Justabingereader/The-tipCalculator-App" className="repo">Code Repo</a>
+                <a href="https://thetipcalculatorapp.netlify.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
+                <a href="https://github.com/Justabingereader/The-tipCalculator-App" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="dom">
                 <h5 >Document Object Manipulation App</h5>
@@ -43,8 +43,8 @@ function Projects(){
             rating has been gotten returns another page with a
             thank you page and the rating that was selected 
             </p>
-            <a href="https://modifieddomproject.netlify.app/" className="live">Live Site</a>
-            <a href="https://github.com/Justabingereader/DOM-PROJECT-2" className="repo">Code Repo</a>
+            <a href="https://modifieddomproject.netlify.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
+            <a href="https://github.com/Justabingereader/DOM-PROJECT-2" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="fusion">
                 <h5 >Fusion Landing Page</h5>
@@ -53,8 +53,8 @@ function Projects(){
             of a fictional tech firm. It is a recreation of a Frontend Mentors task. 
             it displays the information of different individuals in the firm. 
             </p>
-            <a href="https://fusion-landing-page.netlify.app/" className="live">Live Site</a>
-            <a href="https://github.com/Justabingereader/Fusion-landing-page" className="repo">Code Repo</a>
+            <a href="https://fusion-landing-page.netlify.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
+            <a href="https://github.com/Justabingereader/Fusion-landing-page" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="drum">
                 <h5 >Drumkit App</h5>
@@ -63,8 +63,8 @@ function Projects(){
             it was created without looking at the solution
             to the challenge.
             </p>
-            <a href="https://the-drumkit-app.netlify.app/" className="live">Live Site</a>
-            <a href="https://github.com/Justabingereader/The-drumKit-app" className="repo">Code Repo</a>
+            <a href="https://the-drumkit-app.netlify.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
+            <a href="https://github.com/Justabingereader/The-drumKit-app" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
         </div>
         </div>

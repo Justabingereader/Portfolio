@@ -75,3 +75,47 @@
     color: gold;
     font-weight: bold;
 }
+
+@media (max-width: 1100px) {
+    /* Your existing CSS here */
+    .navigate {
+        background-color: var(--body_background);
+        position: relative;
+        top: 0;
+        left: 0;
+        margin-top: 3.3vw;
+        margin-left: -55vw; /* Adjust margin-left to cover the entire right side */
+        margin-bottom: 5vw;
+        width: 125vw;
+    }
+
+    .toggle {
+        width: 13vw;
+        margin-left: 25vw;
+        height: 6vh;
+        font-size: 4vw;
+        font-weight: 600;
+        text-transform: capitalize;
+        background-color: burlywood;
+        color: var(--body_color);
+    }
+
+    .about a,
+    .contact a,
+    .projects a {
+        display: block;
+        font-size: 4vw;
+        color: var(--body_color);
+        text-decoration: none;
+        margin-left: 44vw;
+        padding-top: 15vh;
+    }
+
+    .about a:hover,
+    .contact a:hover,
+    .projects a:hover {
+        cursor: pointer;
+        color: gold;
+        font-weight: bold;
+    }
+}
