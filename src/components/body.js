@@ -17,7 +17,7 @@ function Body(){
                 Since i was young, i've always been captivated by 
                 the skill to make incredible things from the comfort of a computer.
                 I am currently learning Reactjs and that is the
-                framework that was used in building this very site, although i can't 
+                library that was used in building this very site, although i can't 
                 claim that i understand all the intricacies of the framework, i can claim to have a 
                 basic understanding of how it functions and while going through my learning process, i have
                 acquired a passion for building sites and pushing through the challenges they may present.
