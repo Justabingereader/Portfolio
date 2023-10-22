@@ -35,7 +35,7 @@
 
     .about-body {
         width: 90vw; /* Adjust the width for smaller screens */
-        font-size: 1em; /* Adjust font size for smaller screens */
+        font-size: 3vw; /* Adjust font size for smaller screens */
         margin-left: 5vw; /* Remove left margin for smaller screens */
         padding-bottom: 10vh; /* Adjust padding for smaller screens */
         line-height: 4vh; /* Adjust line height for smaller screens */

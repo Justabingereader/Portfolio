@@ -53,7 +53,7 @@
         flex-direction: column; /* Stack content in a column on smaller screens */
         padding-top: 20vh; /* Adjust the padding values as needed */
         padding-bottom: 5vh;
-        padding-left: 6vw;
+        padding-left: 20vw;
     }
 
     .content-logo {
@@ -69,11 +69,24 @@
 
     .head {
         letter-spacing: 0.2vw; /* Adjust letter spacing as needed */
+        font-size: 5vw;
+        margin-bottom: 2vh;
+    }
+
+    .head2 {
+        letter-spacing: 0.2vw; /* Adjust letter spacing as needed */
+        font-size: 5vw;
+        margin-bottom: 2vh;
+        color: gold;
+    }
+
+    .body {
+        font-size: 4vw;
     }
 
     .discover {
         margin-top: 5vh; /* Adjust margin values as needed */
-        margin-left: 0;
+        margin-left: 10vw;
         margin-bottom: 5vh;
         font-size: 7vw; /* Adjust font size for smaller screens */
     }

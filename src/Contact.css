@@ -47,7 +47,8 @@
 @media (max-width: 1100px) {
     .contact-header {
         flex-direction: column; /* Stack content in a column on smaller screens */
-        padding-top: 20vh; /* Adjust padding values for smaller screens */
+        padding-top: 20vh;
+        padding-left: 10vw; /* Adjust padding values for smaller screens */
          /* Adjust padding values for smaller screens */
     }
 
