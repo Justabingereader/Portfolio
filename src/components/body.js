@@ -18,7 +18,7 @@ function Body(){
                 the skill to make incredible things from the comfort of a computer.
                 I am currently learning Reactjs and that is the
                 library that was used in building this very site, although i can't 
-                claim that i understand all the intricacies of the framework, i can claim to have a 
+                claim that i understand all the intricacies of the library, i can claim to have a 
                 basic understanding of how it functions and while going through my learning process, i have
                 acquired a passion for building sites and pushing through the challenges they may present.
             </p>
