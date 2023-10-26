@@ -148,7 +148,7 @@ h5 {
 
     .project-body {
         line-height: 6.5vh; /* Adjust line height for smaller screens */
-        font-size: 2.5vw;
+        font-size: 3vw;
         width: 80vw;
         margin-left: 5vw;
         margin: 1em 0 auto;
@@ -187,7 +187,7 @@ h5 {
         width: 60vw; /* Adjust width for smaller screens */
         margin-left: 0;
         margin-top: 3vh; /* Adjust margin-top for smaller screens */
-        font-size: 2.5vw;
+        font-size: 3vw;
         padding-bottom: 3vh;
     }
     .live {
