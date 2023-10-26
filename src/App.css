@@ -9,6 +9,7 @@
     top: 0;
     color: var(--body_color);
     border-bottom: solid 3px var( --border_bottom_color);
+    padding-bottom: 1.5vh;
 }
 .link-header {
     display: flex;
