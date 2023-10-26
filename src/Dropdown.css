@@ -25,8 +25,8 @@
 }
 .toggle:hover {
     cursor: pointer;
-    width: 11vw;
-    height: 6vh;
+    width: 13vw;
+    height: 7.5vh;
     background-color: burlywood;
 }
 
@@ -76,23 +76,23 @@
     font-weight: bold;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 950px) {
     /* Your existing CSS here */
     .navigate {
         background-color: var(--body_background);
         position: relative;
         top: 0;
         left: 0;
-        margin-top: 3.3vw;
+        margin-top: -0.1vw;
         margin-left: -55vw; /* Adjust margin-left to cover the entire right side */
         margin-bottom: 5vw;
-        width: 125vw;
+        width: 115vw;
     }
 
     .toggle {
         width: 13vw;
         margin-left: 25vw;
-        height: 7vh;
+        height: 7.5vh;
         font-size: 4vw;
         font-weight: 600;
         text-transform: capitalize;

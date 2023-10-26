@@ -146,10 +146,11 @@ h5 {
     }
 
     .project-body {
-        line-height: 4vh; /* Adjust line height for smaller screens */
+        line-height: 6.5vh; /* Adjust line height for smaller screens */
         font-size: 4vw;
         width: 80vw;
         margin-left: 5vw;
+        margin: 1em 0 auto;
     }
 
     .img {

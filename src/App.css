@@ -58,12 +58,12 @@
     margin-left: 1vw;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 950px){
     .dropdown {
         display: block;
         width: 10vw;
         margin-left: -18vw;
-        height: 7vh;
+        height: 10vh;
         font-size: 3.5vw;
     }
 
