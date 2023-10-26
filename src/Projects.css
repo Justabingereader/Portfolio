@@ -13,6 +13,7 @@
 
 .project-head {
     color: gold;
+    padding-top: 5vh;
     font-weight: bolder;
     letter-spacing: 0.2vw;
     text-transform: capitalize;
@@ -142,7 +143,7 @@ h5 {
 
     .project-head {
         font-size: 7vw; /* Adjust font size for smaller screens */
-        padding-top: 2.5vh;
+        padding-top: 5vh;
     }
 
     .project-body {
