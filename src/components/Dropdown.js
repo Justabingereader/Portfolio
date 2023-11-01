@@ -23,7 +23,7 @@ function Dropdown() {
 
   return (
     <div className="dropdown-container">
-      <button onClick={isOpen ? closeDropdown : openDropdown} className='toggle'>
+      <button onClick={isOpen ? closeDropdown : openDropdown} className='toggle' >
         {isOpen ? "Close" : "Menu"}
       </button>
       {isOpen && (

@@ -3,6 +3,7 @@ import Tip from '../images/tipCalculator.png';
 import Dom from '../images/dom.png';
 import Fusion from '../images/fusion.png';
 import Drum from '../images/drumkit.png';
+import star from '../images/star-wars.png'
 import '../Projects.css';
 import "../index.css";
 function Projects(){
@@ -65,6 +66,17 @@ function Projects(){
             </p>
             <a href="https://the-drumkit-app.netlify.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
             <a href="https://github.com/Justabingereader/The-drumKit-app" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
+            </div>
+            <div className="drum">
+                <h5 >Star Wars App</h5>
+            <img src={star} alt="star wars pic" className="img"/>
+            <p className="project-body">This is a react app that involves fetching data
+            from an api and then displaying it, it includes the use of the react router dom
+            tool, importing of axios, dropdown and navigation, it describes different elements
+            in the star wars universe with proper detailing
+            </p>
+            <a href="https://star-wars-mocha.vercel.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
+            <a href="https://github.com/Justabingereader/star-wars" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
         </div>
         </div>
