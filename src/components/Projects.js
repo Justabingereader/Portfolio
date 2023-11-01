@@ -72,7 +72,7 @@ function Projects(){
             <img src={star} alt="star wars pic" className="img"/>
             <p className="project-body">This is a react app that involves fetching data
             from an api and then displaying it, it includes the use of the react router dom
-            tool, importing of axios, dropdown and navigation, it describes different elements
+            tool, importing of axios, dropdown and involves navigation between different links, it describes different elements
             in the star wars universe with proper detailing
             </p>
             <a href="https://star-wars-mocha.vercel.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
