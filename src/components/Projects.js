@@ -40,9 +40,9 @@ function Projects(){
             <div className="dom">
                 <h5 >Domino's Pizza App</h5>
             <img src={Dom} alt="Dom pic" className="img"/>
-            <p className="project-body">This is a react app modelling a domino's pizza site
+            <p className="project-body">This is a react app modelling a domino's pizza site,
             it includes a search feature to enable you to get a particular choice by just searching
-            for it and it's also very design friendly and is accessible to multiple devices and screens.
+            for it, it's also very design friendly and is accessible to multiple devices and screens.
             </p>
             <a href="https://justabinger-dominos.vercel.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
             <a href="https://github.com/Justabingereader/domino" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
