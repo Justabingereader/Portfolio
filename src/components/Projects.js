@@ -1,6 +1,6 @@
 import Calc from "../images/calculator.png";
 import Tip from '../images/tipCalculator.png';
-import Dom from '../images/dom.png';
+import Dom from '../images/domino.png';
 import Fusion from '../images/fusion.png';
 import Drum from '../images/drumkit.png';
 import star from '../images/star-wars.png'
@@ -38,14 +38,14 @@ function Projects(){
                 <a href="https://github.com/Justabingereader/The-tipCalculator-App" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="dom">
-                <h5 >Document Object Manipulation App</h5>
+                <h5 >Domino's Pizza App</h5>
             <img src={Dom} alt="Dom pic" className="img"/>
-            <p className="project-body">This app gets a rating from the user and after a 
-            rating has been gotten returns another page with a
-            thank you page and the rating that was selected 
+            <p className="project-body">This is a react app modelling a domino's pizza site
+            it includes a search feature to enable you to get a particular choice by just searching
+            for it and it's also very design friendly and is accessible to multiple devices and screens.
             </p>
-            <a href="https://modifieddomproject.netlify.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
-            <a href="https://github.com/Justabingereader/DOM-PROJECT-2" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
+            <a href="https://justabinger-dominos.vercel.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
+            <a href="https://github.com/Justabingereader/domino" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="fusion">
                 <h5 >Fusion Landing Page</h5>
@@ -72,8 +72,8 @@ function Projects(){
             <img src={star} alt="star wars pic" className="img"/>
             <p className="project-body">This is a react app that involves fetching data
             from an api and then displaying it, it includes the use of the react router dom
-            tool, importing of axios, dropdown and involves navigation between different links, it describes different elements
-            in the star wars universe with proper detailing
+            tool, importing of axios, dropdown and involves navigation between different links,
+            it describes different elements in the star wars universe with proper detailing
             </p>
             <a href="https://star-wars-mocha.vercel.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
             <a href="https://github.com/Justabingereader/star-wars" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
