@@ -2,7 +2,7 @@ import Calc from "../images/calculator.png";
 import Tip from '../images/tipCalculator.png';
 import Dom from '../images/domino.png';
 import Fusion from '../images/fusion.png';
-import Drum from '../images/drumkit.png';
+import robo from '../images/robo.png';
 import star from '../images/star-wars.png'
 import '../Projects.css';
 import "../index.css";
@@ -59,7 +59,7 @@ function Projects(){
             </div>
             <div className="drum">
                 <h5 >Robo-friends App</h5>
-            <img src={Drum} alt="Drumkit pic" className="img"/>
+            <img src={robo} alt="Robo-friends pic" className="img"/>
             <p className="project-body">This is a react app that shows an 
             image of a robot, the name of the robot, and the email. it has
             a search feature that checks for a particular robot through the name
