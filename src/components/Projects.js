@@ -58,14 +58,15 @@ function Projects(){
             <a href="https://github.com/Justabingereader/Fusion-landing-page" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="drum">
-                <h5 >Drumkit App</h5>
+                <h5 >Robo-friends App</h5>
             <img src={Drum} alt="Drumkit pic" className="img"/>
-            <p className="project-body">This was created as part of a challenge,
-            it's a site that produces specific sounds when specific buttons on the
-            keyboard are selected and if the buttons are never clicked, no sound is ever produced.
+            <p className="project-body">This is a react app that shows an 
+            image of a robot, the name of the robot, and the email. it has
+            a search feature that checks for a particular robot through the name
+            of the robot, it is also adaptable across many devices.
             </p>
-            <a href="https://the-drumkit-app.netlify.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
-            <a href="https://github.com/Justabingereader/The-drumKit-app" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
+            <a href="https://robo-friends-hazel.vercel.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
+            <a href="https://github.com/Justabingereader/robo-friends" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="drum">
                 <h5 >Star Wars App</h5>
