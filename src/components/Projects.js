@@ -2,7 +2,7 @@ import Calc from "../images/calculator.png";
 import Tip from '../images/tipCalculator.png';
 import Key from '../images/key.png';
 import Fusion from '../images/fusion.png';
-import robo from '../images/robo.png';
+import pass from '../images/password.png';
 import star from '../images/star-wars.png'
 import '../Projects.css';
 import "../index.css";
@@ -56,15 +56,13 @@ function Projects(){
             <a href="https://github.com/Justabingereader/Fusion-landing-page" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="drum">
-                <h5 >Robo-friends App</h5>
-            <img src={robo} alt="Robo-friends pic" className="img"/>
-            <p className="project-body">This is a react app that shows an 
-            image of a robot, the name of the robot, and the email. it has
-            a search feature that checks for a particular robot through the name
-            of the robot, it is also adaptable across many devices.
+                <h5 >Password-Checker App</h5>
+            <img src={pass} alt="Robo-friends pic" className="img"/>
+            <p className="project-body">A Command-Line Interface(CLI) Application that checks for the strength of a password
+            and gives a remark on the password entered based on the number of conditions the password satisfies.
             </p>
-            <a href="https://robo-friends-hazel.vercel.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
-            <a href="https://github.com/Justabingereader/robo-friends" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
+            <a href="" className="live" target="_blank" rel="noreferrer">None</a>
+            <a href="https://github.com/Justabingereader/passwordchecker" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="drum">
                 <h5 >Star Wars App</h5>
