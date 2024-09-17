@@ -24,7 +24,7 @@ function Body(){
             </p>
 
             <h2 className="discover">DISCOVER!</h2>
-            <span className="footer">Copyright 2023, Imran Haroun</span>
+            <span className="footer">Copyright 2024, Imran Haroun</span>
         </div>
    </div>
    )
