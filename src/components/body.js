@@ -9,17 +9,19 @@ function Body(){
         </div>
         <div className="header">
            <h4 className="head"> HTML, CSS, JS </h4>
-           <h1 className="head2">Front End developer</h1>
+           <h1 className="head2">Entry-Level IT Security Specialist</h1>
             <p className="body">
-            Hello and welcome to my portfolio. I am a front-end web developer, and my purpose
+            Hello and welcome to my portfolio. I am an Entry-Level IT Security Specialist, and my purpose
             for building this site was to have a central store for some of my projects.<br/><br/>
 
-            Since I was young, I've always been captivated by the skill to make incredible things
-            from the comfort of a computer. I am currently learning React.js, and that is the library
-            that was used in building this very site. Although I can't claim that I understand all the
-            intricacies of the library, I can claim to have a basic understanding of how it functions.
-            While going through my learning process, I have acquired a passion for building sites and
-            pushing through the challenges they may present.
+            Since I was young, I've always been captivated by the ability to protect and secure systems from the comfort of a computer.
+            I am familiar with various cybersecurity tools and concepts, and I continuously work to enhance my knowledge in this ever-evolving field.
+            Although I can't claim to understand all the complexities within cybersecurity,
+            I have a solid grasp of the fundamentals and how they apply to real-world scenarios.<br/><br/>
+
+            Through my learning journey, I've developed a strong passion for securing systems and overcoming the challenges that arise in the process.
+            The thrill of identifying vulnerabilities and safeguarding data is what keeps me pushing forward,
+            always striving to grow in my understanding and application of cybersecurity principles.
             </p>
 
             <h2 className="discover">DISCOVER!</h2>

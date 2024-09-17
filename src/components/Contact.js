@@ -10,7 +10,7 @@ function Contact(){
             <div className="contact-content">
                 <h3 className="contact-head">Contact</h3>
                 <h5 className="contact-email">E-mail</h5>
-                <a href="mailto:youremail@example.com" className="contact-link">harounimran04@gmail.com</a>
+                <a href="mailto:harounimran04@gmail.com" className="contact-link">harounimran04@gmail.com</a>
                 <span className="contact-name">Copyright 2023. Imran Haroun</span>
             </div>
         </div>

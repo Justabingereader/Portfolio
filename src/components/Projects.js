@@ -1,6 +1,6 @@
 import Calc from "../images/calculator.png";
 import Tip from '../images/tipCalculator.png';
-import Dom from '../images/domino.png';
+import Key from '../images/key.png';
 import Fusion from '../images/fusion.png';
 import robo from '../images/robo.png';
 import star from '../images/star-wars.png'
@@ -38,14 +38,12 @@ function Projects(){
                 <a href="https://github.com/Justabingereader/The-tipCalculator-App" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="dom">
-                <h5 >Domino's Pizza App</h5>
-            <img src={Dom} alt="Dom pic" className="img"/>
-            <p className="project-body">This is a react app modelling a domino's pizza site,
-            it includes a search feature to enable you to get a particular choice by just searching
-            for it, it's also very design friendly and is accessible to multiple devices and screens.
+                <h5 >Encryption App</h5>
+            <img src={Key} alt="Dom pic" className="img"/>
+            <p className="project-body">A Command-Line Interface(CLI) Application that encrypts and decrypts messages with a secret password.
             </p>
-            <a href="https://justabinger-dominos.vercel.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
-            <a href="https://github.com/Justabingereader/domino" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
+            <a href="" className="live" target="_blank" rel="noreferrer">None</a>
+            <a href="https://github.com/Justabingereader/EnD" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="fusion">
                 <h5 >Fusion Landing Page</h5>

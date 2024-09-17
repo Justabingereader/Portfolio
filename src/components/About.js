@@ -4,33 +4,24 @@ function About(){
     return (
         <div className="about-content">
             <h1 className="about-head">About Me</h1>
-            <p className= "about-body">Since I was young, I have always been fascinated by the thought
-            of creating from the comfort of the computer. It always seemed like the only path I would
-            ever really consider for myself. It was no surprise to me when I indeed developed a passion
-            for web development while learning about it. The process of running into a challenge and
-            taking different steps to solve it interests me a lot. Then, the joy of seeing a working
-            site and the feeling of growth when you're done only brings satisfaction. It has only
-            gotten better as I dive deeper into it.<br/><br/>
+            <p className= "about-body">Since I was young, I have always been fascinated by the thought of solving complex problems from the comfort of a computer.
+            It always felt like the only path I would truly consider for myself. So, it was no surprise when I developed a deep passion for cybersecurity while learning about it. 
+            The process of encountering security challenges and taking different steps to address them fascinates me. The satisfaction of securing a system and the feeling of growth
+            after solving a tough problem is something that has only gotten stronger as I dive deeper into this field.<br/><br/>
 
-            I personally believe in continuing to acquire information and knowledge from wherever I can,
-            from whichever field interests me, as I believe knowledge and information are some of the most
-            important things to have when navigating through life.<br/><br/>
+            I personally believe in continually acquiring information and knowledge from wherever I can, in any area that piques my interest.
+            I see knowledge as one of the most important assets when navigating life, especially in the fast-changing world of technology.<br/><br/>
 
-            This is personally my 5th time of learning web development, but this is the deepest I have gone
-            in all my attempts. I attribute that to the fact that it was something I personally decided I
-            would do, hence I had enough drive to stick with it even when it presented challenges.
-            I am a newly graduated Computer Science student and am now on my way to becoming a fully-fledged
-            web developer.<br/><br/>
+            This is probably my fifth serious attempt at pursuing cybersecurity, but this is the furthest I've come in all my attempts.
+            I credit this to making the personal decision to fully commit to it. This has given me the drive to stick with it, even when facing difficult challenges.
+            As a recent Computer Science graduate, I am now on my journey to becoming a fully-fledged cybersecurity professional.<br/><br/>
 
-            Since I finished school, I have devoted as much time as I can to improve my web development skills
-            and also my communication and interpersonal skills. I believe these are important skills to have in
-            any workplace, and you can never have too much of it in any environment.<br/><br/>
+            Since finishing school, I have dedicated as much time as possible to sharpening my cybersecurity skills and improving my communication and interpersonal abilities.
+            I recognize the importance of these skills in any workplace, and I believe you can never have too much of them in any environment.<br/><br/>
 
-            Learning to code has also had positive effects on my personal life as it taught me to be accountable
-            to myself and have better discipline with my time. I know I have to put in hours every day into
-            learning web development no matter how I may personally feel. I am constantly working to better
-            myself every day. I believe if you're not developing yourself whenever you can, then you would
-            be gradually left behind.<br/><br/>
+            Learning about cybersecurity has also positively impacted my personal life by teaching me accountability and time management.
+            I know I have to consistently put in the hours, no matter how I might feel, to keep improving. I'm always working to better myself,
+            and I believe if you're not developing yourself whenever you can, you risk falling behind.<br/><br/>
 
             Some of the projects I've worked on can be found on the projects page.
         </p>
