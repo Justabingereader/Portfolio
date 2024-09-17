@@ -8,7 +8,6 @@ function Body(){
             <Logo />
         </div>
         <div className="header">
-           <h4 className="head"> HTML, CSS, JS </h4>
            <h1 className="head2">Entry-Level IT Security Specialist</h1>
             <p className="body">
             Hello and welcome to my portfolio. I am an Entry-Level IT Security Specialist, and my purpose
