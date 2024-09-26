@@ -3,7 +3,7 @@ import Tip from '../images/tipCalculator.png';
 import Key from '../images/key.png';
 import Fusion from '../images/fusion.png';
 import pass from '../images/password.png';
-import star from '../images/star-wars.png';
+import FED from '../images/FED.jpeg';
 import hider from '../images/hider.jpg';
 
 import '../Projects.css';
@@ -77,15 +77,14 @@ function Projects(){
             <a href="https://github.com/Justabingereader/DataHider" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
             <div className="drum">
-                <h5 >Star Wars App</h5>
-            <img src={star} alt="star wars pic" className="img"/>
-            <p className="project-body">This is a react app that involves fetching data
-            from an api and then displaying it, it includes the use of the react router dom
-            tool, importing of axios, dropdown and involves navigation between different links,
-            it describes different elements in the star wars universe with proper detailing
+                <h5>FED</h5>
+            <img src={FED} alt="star wars pic" className="img"/>
+            <p className="project-body">This is a standalone Python Script
+                that makes use of symmetric encryption to encrypt and decrypt files,
+                This script aims to make the transfer of files over the internet much more secure.
             </p>
-            <a href="https://star-wars-mocha.vercel.app/" className="live" target="_blank" rel="noreferrer">Live Site</a>
-            <a href="https://github.com/Justabingereader/star-wars" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
+            <a href="" className="live" target="_blank" rel="noreferrer">None</a>
+            <a href="https://github.com/Justabingereader/FED" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
         </div>
         </div>
