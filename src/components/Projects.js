@@ -42,7 +42,7 @@ function Projects(){
             <div className="dom">
                 <h5 >Encryption App</h5>
             <img src={Key} alt="Dom pic" className="img"/>
-            <p className="project-body">A Command-Line Interface(CLI) Application that encrypts and decrypts messages with a secret password.
+            <p className="project-body">A Graphical-user Interface(CLI) Application that encrypts and decrypts messages with a secret password.
             </p>
             <a href="" className="live" target="_blank" rel="noreferrer">None</a>
             <a href="https://github.com/Justabingereader/EnD" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
