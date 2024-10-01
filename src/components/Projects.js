@@ -5,6 +5,7 @@ import Fusion from '../images/fusion.png';
 import pass from '../images/password.png';
 import FED from '../images/FED.jpeg';
 import hider from '../images/hider.jpg';
+import PM from '../images/PM.png';
 
 import '../Projects.css';
 import "../index.css";
@@ -85,6 +86,17 @@ function Projects(){
             </p>
             <a href="" className="live" target="_blank" rel="noreferrer">None</a>
             <a href="https://github.com/Justabingereader/FED" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
+            </div>
+            <div className="drum">
+                <h5>PM</h5>
+            <img src={PM} alt="star wars pic" className="img"/>
+            <p className="project-body">The Password Manager CLI is a command-line application designed to provide
+                a safe and secure way to store passwords. Utilizing Python and MySQL,
+                this application serves as a central repository for passwords that individuals
+                or organizations wish to protect from unauthorized access.
+            </p>
+            <a href="" className="live" target="_blank" rel="noreferrer">None</a>
+            <a href="https://github.com/Justabingereader/PM" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
         </div>
         </div>
