@@ -6,6 +6,7 @@ import pass from '../images/password.png';
 import FED from '../images/FED.jpeg';
 import hider from '../images/hider.jpg';
 import PM from '../images/PM.png';
+import PyKey from '../images/PyLogger.jpg';
 
 import '../Projects.css';
 import "../index.css";
@@ -97,6 +98,18 @@ function Projects(){
             </p>
             <a href="" className="live" target="_blank" rel="noreferrer">None</a>
             <a href="https://github.com/Justabingereader/PM" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
+            </div>
+            <div className="drum">
+                <h5>PyLogger</h5>
+            <img src={PyKey} alt="star wars pic" className="img"/>
+            <p className="project-body">PyLogger is an offline keylogger written in Python
+                that captures clipboard data, takes screenshots, and logs keystrokes.
+                This program is designed to help organizations monitor how their employees
+                enter data on company systems, serving as a backup for data and a means of
+                enhancing security practices.
+            </p>
+            <a href="" className="live" target="_blank" rel="noreferrer">None</a>
+            <a href="https://github.com/Justabingereader/PyLogger" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
         </div>
         </div>
