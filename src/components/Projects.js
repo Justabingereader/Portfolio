@@ -7,6 +7,7 @@ import FED from '../images/FED.jpeg';
 import hider from '../images/hider.jpg';
 import PM from '../images/PM.png';
 import PyKey from '../images/PyLogger.jpg';
+import weather from '../images/weather.png'
 
 import '../Projects.css';
 import "../index.css";
@@ -110,6 +111,17 @@ function Projects(){
             </p>
             <a href="" className="live" target="_blank" rel="noreferrer">None</a>
             <a href="https://github.com/Justabingereader/PyLogger" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
+            </div>
+            <div className="drum">
+                <h5>PY Weather</h5>
+            <img src={weather} alt="star wars pic" className="img"/>
+            <p className="project-body">A PyQt5-based desktop application that provides weather information
+                for any city using the OpenWeatherMap API. This app displays the temperature,
+                weather condition, and a corresponding emoji to visually represent the weather, It can be accessed
+                through GitHub by downloading the repository, navigating to the dist directory and running the main.exe file.
+            </p>
+            <a href="" className="live" target="_blank" rel="noreferrer">None</a>
+            <a href="https://github.com/Justabingereader/Weather-App" className="repo" target="_blank" rel="noreferrer">Code Repo</a>
             </div>
         </div>
         </div>
